@@ -65,4 +65,4 @@ ax.set_xlabel('X coordinate (cm)')
 ax.set_ylabel('Y coordinate (cm)')
 
 plt.title('Electric Potential Scalar Field')
-plt.savefig('Contour_Plot.pdf') # uncomment to save vector/high-res version
+plt.savefig('Contour_Plot.pdf')
