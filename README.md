@@ -1,4 +1,4 @@
-# ElectricPotentialLab
+# AP Physics C Lab | Mapping Electric Fields
 
 ## Motivation
 
