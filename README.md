@@ -8,5 +8,5 @@
 
 ## Mentions
 Stuyvesant High School <br>
-Ms. Sharaf
+Ms. Sharaf <br>
 Alex P. Miller
